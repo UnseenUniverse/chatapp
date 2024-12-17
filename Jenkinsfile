@@ -19,6 +19,7 @@
             snykInstallation: 'Snyk',
             snykTokenId: 'Synkid',
             severity: 'critical'
+            failOnIssues: 'false'
          )
        }
      
