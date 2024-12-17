@@ -18,7 +18,7 @@
          snykSecurity(
             snykInstallation: 'Snyk',
             snykTokenId: 'Synkid',
-            severity: 'critical'
+            severity: 'critical',
             failOnIssues: 'false'
          )
        }
